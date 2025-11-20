@@ -1,10 +1,9 @@
-# Hi, I'm Fiza 👋
+# Hi, I'm Fiza!
 
 **About me**
 
 I am a  Security learner focused on Blue Team, DFIR, and threat detection.  
-
-![alt text](15-23-06-837_512.gif)
+![sti](https://github.com/user-attachments/assets/6afc7935-f3a1-4d86-81aa-e6912cd3dceb)
 
 I like digging into logs, understanding system behavior, and figuring out why incidents happen. 
 
