@@ -7,10 +7,10 @@ I like digging into logs, understanding system behavior, and figuring out why in
 </p>
 
 **Currently exploring**
-- Digital forensics & incident response 🔍  
-- Log analysis & detection engineering 📊  
-- PowerShell & Python for investigation and automation ⚡  
-- Improving workflows for handling alerts and events 🛠️  
+- Digital forensics & incident response
+- Log analysis & detection engineering
+- PowerShell & Python for investigation and automation
+- Improving workflows for handling alerts and events
 
 **Tools & Stuff I usually work with**
 
