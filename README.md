@@ -1,6 +1,6 @@
 # Hi, I'm Fiza!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E2E2E&vCenter=true&width=500&lines=SOC+Analyst;Blue+Team+%7C+DFIR+%7C+Threat+Detection;Detection+Engineering+%7C+Log+Analysis)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=500&color=2E2E2E&vCenter=true&width=500&lines=SOC+Analyst;Blue+Team+%7C+DFIR+%7C+Threat+Detection;Detection+Engineering+%7C+Log+Analysis)
 
 I like digging into logs, understanding system behavior, and figuring out why incidents happen. 
 ## Currently Exploring
