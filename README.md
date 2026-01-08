@@ -1,11 +1,8 @@
 # Hi, I'm Fiza!
 
-<p float="left">
-I am a SOC Analyst focused on Blue Team, DFIR, and threat detection.  
-I like digging into logs, understanding system behavior, and figuring out why incidents happen. 
-<img src="https://github.com/user-attachments/assets/6afc7935-f3a1-4d86-81aa-e6912cd3dceb" alt="sti" width="320" align="right" style="margin-left: 20px; margin-bottom: 10px;">
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E2E2E&vCenter=true&width=500&lines=SOC+Analyst;Blue+Team+%7C+DFIR+%7C+Threat+Detection;Detection+Engineering+%7C+Log+Analysis)
 
+I like digging into logs, understanding system behavior, and figuring out why incidents happen. 
 ## Currently Exploring
 - Digital forensics & incident response
 - Log analysis & detection engineering
@@ -16,41 +13,31 @@ I like digging into logs, understanding system behavior, and figuring out why in
 
 **Languages & Scripting**
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **SIEM & Security Platforms**
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3C3C3D?style=flat&logo=wazuh&logoColor=white)
-![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat&logo=ibm&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3C3C3D?style=for-the-badge&logoColor=white)
 
 **Analysis & Monitoring**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=flat&logo=windows&logoColor=white)
-![Sysinternals](https://img.shields.io/badge/Sysinternals-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Sysinternals](https://img.shields.io/badge/Sysinternals-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Hobbies
 - Reading 📖  
 - Sketching ✏️ 
 - Baking 🍪 
 
----
+## Let's Connect
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel. app/api?username=fizahmad&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizahmad&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizahmad&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fizahmaad/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fiza4224@email.com)
